@@ -127,8 +127,10 @@ The question is whether it chooses to build on it.
 ---
 
 **Also available as:**
-[HTML](https://eu-sailfish-os.lpmwfx.com) |
+[HTML (.com)](https://eu-sailfish-os.lpmwfx.com) |
+[HTML (.eu)](https://eu-sailfish-os.lpmwfx.eu) |
 [PDF](https://github.com/articles-lpmwfx/eu-sailfish-os/releases/latest) |
-[Repository](https://github.com/articles-lpmwfx/eu-sailfish-os) |
+[GitHub](https://github.com/articles-lpmwfx/eu-sailfish-os) |
+[Codeberg](https://codeberg.org/Articles-lpmwfx/eu-sailfish-os) |
 [SHA256](https://github.com/articles-lpmwfx/eu-sailfish-os/blob/main/SHA256SUMS) |
-[Feedback](https://github.com/articles-lpmwfx/eu-sailfish-os/issues)
+[Feedback](https://codeberg.org/Articles-lpmwfx/eu-sailfish-os/issues)
