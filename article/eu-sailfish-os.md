@@ -5,10 +5,9 @@ date: 18.02.2026
 lang: en
 description: "Why SailfishOS represents Europe's best chance at a sovereign mobile operating system — and how a SEPA-based wallet layer could justify serious EU support."
 ---
-
 # Europe's Strategic Opportunity: Why SailfishOS Deserves Serious EU Backing
 
-Europe speaks constantly about digital sovereignty. We regulate platforms, write AI legislation, enforce data protection, and debate strategic autonomy. Yet at the foundation of the digital stack — the mobile operating system — Europe remains almost entirely dependent on non-European ecosystems.
+Europe speaks constantly about digital sovereignty. We regulate platforms, write AI legislation, enforce data protection, and debate strategic autonomy. Yet, at the foundation of the digital stack — the mobile operating system — Europe remains almost entirely dependent on non-European ecosystems.
 
 There is, however, one serious European candidate already in existence: SailfishOS from Finland's Jolla.
 
@@ -20,9 +19,9 @@ But Android is not merely Linux. It is an ecosystem built around a Java-centric 
 
 History offers an important lesson.
 
-When Apple built the iPhone, it could have embraced Java as the dominant mobile runtime model. Instead, Apple chose a more direct, native approach. iOS is built on a BSD-based Darwin kernel with tight integration between system and user interface frameworks. This direct stack delivered smoother performance, tighter integration, and superior user experience. Over time, that architectural choice proved decisive.
+When Apple built the iPhone, it could have embraced Java as the dominant mobile runtime model. Instead, Apple chose a more direct, native approach. iOS is built on a BSD-based Darwin kernel with tight integration between system and user interface frameworks. This direct stack delivered smoother performance, tighter integration, and a superior user experience. Over time, that architectural choice proved decisive.
 
-Both Android and iOS share Unix roots — Linux and BSD respectively — but their UI philosophies diverged sharply. The native-first approach won in terms of fluidity, coherence, and long-term performance control.
+Both Android and iOS share Unix roots — Linux and BSD, respectively — but their UI philosophies diverged sharply. The native-first approach won in terms of fluidity, coherence, and long-term performance control.
 
 ## SailfishOS: A Direct Architecture
 
